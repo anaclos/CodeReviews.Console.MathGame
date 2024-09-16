@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using AnaClos.MathGame.Models;
-using System.Runtime.CompilerServices;
 int max = 5;
 int score = 0;
 string choice = "q";
